@@ -1,0 +1,7 @@
+
+owner = 468437664
+token = '714771980:AAG97n9oCz_fjG9VdXFPnk68h4yqN8WjjQU'
+token2 = '736188854:AAFo47L2HPXKFqx7Ehxq9roJTCulgWDuSrE'
+pending = 666, 468437664
+group = -1001390091027
+error_log = -1001410696640
